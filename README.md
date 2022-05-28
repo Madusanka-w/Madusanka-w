@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 ##
 
 [instagram]: https://www.instagram.com/madusanka_w/
-[gmail]: mwattale@gmail.com
+[gmail]: mailto:mwattale@gmail.com
 [facebook]: https://www.facebook.com/madusanka.wattaladeniya.7/
-[linkedin]: www.linkedin.com/in/mwattaladeniya
+[linkedin]: https://www.linkedin.com/in/mwattaladeniya
