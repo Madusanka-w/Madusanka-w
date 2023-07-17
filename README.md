@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Madusanka's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Madusanka-w&theme=dracula)
+
 
 ##
 
