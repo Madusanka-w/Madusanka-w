@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Software Engineering at Sri Lanka Institute of Information Technology.
-<!-- - 💼 &nbsp; Working as a Trainee Software Engineer at ZinCat Technology. -->
+- 💼 &nbsp; Working as an Associate Software Engineer at Mexxar.
 
 ##
 
